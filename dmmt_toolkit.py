@@ -1,7 +1,3 @@
-# Name: Abhay Kumar
-# Roll No.: 2501730185
-# Section: A
-
 # ================= BST =================
 class BSTNode:
     def __init__(self, key):
